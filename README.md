@@ -63,4 +63,4 @@ vi docker-compose.yml
     docker-compose up
 
 ## Browse to IP:5000 in browser
-refresh the page and watch the counter go up 
+Refresh the page and watch the counter go up 
